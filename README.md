@@ -52,7 +52,7 @@ python train.py
 
 - 输出下面的结果（训练时间可能长达几个小时）
 
-![image-20231215214559514](C:\Users\30530\AppData\Roaming\Typora\typora-user-images\image-20231215214559514.png)
+![image-20231215214559514](./Figures/TrainBar.png)
 
 - Loss下降图：
 
